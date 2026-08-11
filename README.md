@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a B.Tech CSE (AI & ML) student at Sister Nivedita University (SNU) with a strong interest in software development, backend engineering, and problem solving. Currently focused on improving Data Structures & Algorithms, building full-stack applications, and exploring cloud and DevOps technologies. Skilled in developing projects using C++, Python, JavaScript, HTML/CSS, MongoDB, and Express.js, along with experience in data analysis using Pandas and NumPy. Dedicated to continuously improving technical skills, building practical real-world projects, and growing as a software engineer.<br><br>Backend & Core Technologies: Python, C++, JavaScript, Express.js, MongoDB<br>Data & Libraries: Pandas, NumPy<br>Cloud & Tools: AWS, Git, GitHub<br>Currently Learning: DSA, Backend Development, DevOps, AI/ML Fundamentals<br>
+I am a B.Tech CSE (AI & ML) student at Sister Nivedita University (SNU) with a strong interest in software development, backend engineering, and problem solving. Currently focused on improving Data Structures & Algorithms, building full-stack applications, and exploring cloud and DevOps technologies. Skilled in developing projects using C++, Python, JavaScript, HTML/CSS, MongoDB, and Express.js, along with experience in data analysis using Pandas and NumPy. Dedicated to continuously improving technical skills, building practical real-world projects, and growing as a software engineer.<br><br>
+Languages: Python, C++, SQL, JavaScript<br>
+Data & Analytics: Microsoft Excel, Power BI, NumPy, Pandas<br>
+Machine Learning & Visualization: Scikit-learn, PyTorch, OpenCV, Matplotlib, Seaborn<br>
+Development & Tools: HTML, CSS, Git, GitHub, AWS, VS Code<br>
+Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems<br>
+Currently Learning: Machine Learning, DevOps<br>
 
 
 # 🌐 Socials:
@@ -20,6 +26,9 @@ I am a B.Tech CSE (AI & ML) student at Sister Nivedita University (SNU) with a s
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge\&logo=Jupyter\&logoColor=white)
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
